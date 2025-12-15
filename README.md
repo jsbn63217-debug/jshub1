@@ -1,4 +1,4 @@
--- JZ Hub GUI - Clean Premium Edition
+print("Hello, World!")-- JZ Hub GUI - Clean Premium Edition
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
